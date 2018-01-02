@@ -1,0 +1,22 @@
+This is a guide to help change the name on the landing ship bow
+
+First goto the landing ship folder located in the SM Marine parts folder
+
+Find there an image called YourNameInThisSPaceExample.png.example  Rename this to YourNameInThisSPaceExample.png and open with your favourite image editor
+in the image editor you will see the usual black two tone image with a defined white area.  set guides to outline this highlighted area,  as this is the only place that the name will appear correctly displayed when saved.
+
+If you so choose you can refill the area to any color of your choice and of course apply a name in the font you prefer
+Do not apply lettering outside of this area as it will display incorrectly 
+
+save/export the image with a name of your choice, no hyphens spaces or underscores please,  to the landing ship folder.
+Open the LSbow.cfg and browse down until you find the FS Texture switch 2 module 
+
+Browse that module for TextureName here you will find a ready to addition slot commented out, remove the comment before the (;) and change yourTexturenameWouldGoHere to the name of your saved texture
+
+Next you need to find the line  textureDisplayNames, here also you will find an option ready to simply change YourTextureDisplayNameGoesHere to the name of you choice and remove the comment before the (;) 
+
+Final step before starting the game is to delete the renamed YourNameInThisSPaceExample.png.example to prevent it loading uneccesarily 
+
+Save all of your changes start the game and all being well your name should be able to be selected using the right click gui in the SPH
+
+ 

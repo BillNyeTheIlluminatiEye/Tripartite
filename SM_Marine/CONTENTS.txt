@@ -1,0 +1,49 @@
+Contents
+4x structural panels 1x1 2x2 3x3 4x4
+4x structural panels 1x2 1x3 1x4 
+2x structural panels slope 1x1 1x2
+Air Intake Mast 2 sizes 
+Air intake panels 2x1 4x1
+AirIntake industrial vent style tall /short
+AnchorIV , attach to kas winch, also works with HL airships AirAnchor
+KAS Anchorz, attach to kas winch
+Large deployable antenna
+Deck Bollards, just deco
+Bridge type1
+Bridge type4
+Bridge type3
+Bridge type5
+Bridge type6
+patrol boat bridge
+Crew quarters module
+Coms Mast with nav lights
+Deck rails 1x1 1x2 1x3 1x5
+Vertical crew transfer and cabin hatch
+Emissive Nav lights, these are emisive only and as such will not provide illumination
+Extending radar/camera unit BDA part
+Helideck animated saftey nets 3 sizes
+Helideck Decal scaleable helidecks anywhere
+10 hulls in various sizes with various features
+Large Radome , BDA plugin required
+Light Weight antenna
+Marine sensor package
+Marine trim plane / Rudder
+Microwave high power antenna
+Nav mast with nav lights
+Radar bar type scanner BDA plugin required
+Radome radar unit small BDA plugin required
+Raked nav mast
+Raked nav mast with nav lights
+RC 1 complete kit of parts to build small patrol boat vessels
+Rope ladder and rope scramble net
+Small reverser motor
+Sooper sinker ballast device
+SooperSinker Radial ballast device
+Sterngear Type 1  Propellor, shaft and A brkt and sterntube with reverse
+Tug boat complete set of parts to build small but poweful tugs
+Tug boat drive with reverse 
+Various styles of stairways
+Various styles of mast for mounting radars sensors etc
+Warship Bridge type 4
+Z drive nozzles , Transom Z drive and leg type with reverse
+

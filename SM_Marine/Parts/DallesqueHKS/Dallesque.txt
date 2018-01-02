@@ -1,0 +1,3 @@
+6,900 disp
+9,440,44sqm srf
+8,472.84cu m vol
