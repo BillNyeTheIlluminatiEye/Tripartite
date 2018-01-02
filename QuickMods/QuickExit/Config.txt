@@ -1,0 +1,7 @@
+Debug = True
+CountDown = False
+AutomaticSave = True
+Key = f7
+StockToolBar = True
+StockToolBar_ModApp = False
+BlizzyToolBar = True
