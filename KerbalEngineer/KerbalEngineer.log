@@ -1,0 +1,72 @@
+Executing: KerbalEngineer - 1.1.3.0
+Assembly: C:\Program Files\Kerbal Space Program\KSP 1.3.1-Tripartite\GameData\KerbalEngineer\KerbalEngineer.dll
+
+[Log 09:59:50.8273226]: images (UnityEngine.AssetBundle)
+[Log 10:03:47.5657249]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ModuleManager, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: FilterExtensions, Version=3.1.1.7, Culture=neutral, PublicKeyToken=null
+Assembly: AirPark, Version=0.1.6.1, Culture=neutral, PublicKeyToken=null
+Assembly: B9_Aerospace_WingStuff, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: BDAnimationModules, Version=0.6.5.0, Culture=neutral, PublicKeyToken=null
+Assembly: RNModules, Version=1.1.5.3, Culture=neutral, PublicKeyToken=null
+Assembly: BDArmory.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: BDArmory, Version=1.0.0.21477, Culture=neutral, PublicKeyToken=null
+Assembly: BurnTogether, Version=0.1.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: Chatterer, Version=0.9.93.1804, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: DestructionEffects, Version=1.7.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: AGExt, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: EasyVesselSwitch, Version=1.5.6471.31118, Culture=neutral, PublicKeyToken=null
+Assembly: KSPDev_Utils.0.28, Version=0.28.6465.41979, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: ModularFlightIntegrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: FerramAerospaceResearch, Version=0.15.9.0, Culture=neutral, PublicKeyToken=null
+Assembly: ferramGraph, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Firespitter, Version=7.3.6354.39102, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: FShangarExtender, Version=3.5.2.0, Culture=neutral, PublicKeyToken=null
+Assembly: HullBreach, Version=0.1.6.1, Culture=neutral, PublicKeyToken=null
+Assembly: ImprovedChaseCamera, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KAS, Version=0.6.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.1, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer, Version=1.1.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer.Unity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalJointReinforcement, Version=3.3.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalKonstructs, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: HyperEdit, Version=1.5.6.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerboKatz.UI, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerboKatzUtilities, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: CraftHistory, Version=2.2.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KIS, Version=1.9.6571.274, Culture=neutral, PublicKeyToken=null
+Assembly: KSPDev_Utils.0.30, Version=0.30.6557.40249, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSPWheel, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: modularFuelTanks, Version=5.9.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: MouseAimFlight, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: AntiSubmarineWeapon, Version=0.6.5.2, Culture=neutral, PublicKeyToken=null
+Assembly: FinalFrontier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: PhysicsRangeExtender, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ProceduralParts, Version=1.2.12.0, Culture=neutral, PublicKeyToken=null
+Assembly: QuickExit, Version=2.1.3.28499, Culture=neutral, PublicKeyToken=null
+Assembly: QuickGoTo, Version=1.3.3.31560, Culture=neutral, PublicKeyToken=null
+Assembly: QuickStart, Version=2.1.4.1286, Culture=neutral, PublicKeyToken=null
+Assembly: RealChute, Version=1.4.6543.1837, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: RetractableLiftingSurface, Version=0.1.5.0, Culture=neutral, PublicKeyToken=null
+Assembly: SMIndustries, Version=0.1.0.97, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: ModuleBounce, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: TakeCommand, Version=1.4.11.0, Culture=neutral, PublicKeyToken=null
+Assembly: Scale, Version=2.3.7.0, Culture=neutral, PublicKeyToken=null
+Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: VanguardTechnologies, Version=0.1.15.0, Culture=neutral, PublicKeyToken=null
+Assembly: VesselMover, Version=1.6.2.0, Culture=neutral, PublicKeyToken=null
+
+[Log 10:07:27.8608595]: BuildAdvanced->OnDestroy
