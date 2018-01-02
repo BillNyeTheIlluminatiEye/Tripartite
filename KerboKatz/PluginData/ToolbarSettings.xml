@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ToolbarSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <debug>false</debug>
+  <uiFadeSpeed>0.25</uiFadeSpeed>
+  <uiElements>
+    <UIData>
+      <name>KerboKatzToolbar</name>
+      <position>
+        <x>238.2</x>
+        <y>243.5</y>
+        <z>0</z>
+      </position>
+      <active>false</active>
+    </UIData>
+  </uiElements>
+  <showToolbar>false</showToolbar>
+</ToolbarSettings>

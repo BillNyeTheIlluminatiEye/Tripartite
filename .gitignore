@@ -7,6 +7,34 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+/Squad
+/AviatorArsenal
+/SXT
+/LShipPartsModern
+/LShipPartsWW2
+/LShipPartsRequired
+/NEREID
+/NAS
+/KerbinSide
+/KerbalKonstructs
+/KerbalFoundries
+/Chatterer
+/BDArmory
+/AirplanePlus
+/TDG
+/SM_Marine
+/000_FilterExtensions
+/000_FilterExtensions_Configs
+/FoxDefenseContracts
+/KAS
+/KIS
+/TweakScale
+/KerbalEngineer
+/STMRibbons
+/STMRibbons/Ribbons
+/ProceduralParts
+/QuickMods
+/VanguardTechnologies
 
 # Windows Installer files
 *.cab
