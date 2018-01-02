@@ -1,0 +1,42 @@
+NAME;TITLE;AUTHOR;MANUFACTURER;PART_MASS;PART_COST;PART_CRASHTOLERANCE;PART_MAXTEMP;MISSILE_THRUST;MISSILE_BOOSTTIME;MISSILE_CRUISETHRUST;MISSILE_CRUISETIME;MISSILE_MAXTURNRATEDPS;MISSILE_BLASTPOWER;MISSILE_BLASTHEAT;MISSILE_BLASTRADIUS;MISSILE_GUIDANCEACTIVE;MISSILE_HOMINGTYPE;MISSILE_TARGETINGTYPE;MISSILE_MINLAUNCHSPEED;MISSILE_MINSTATICLAUNCHRANGE;MISSILE_MAXSTATICLAUNCHRANGE;MISSILE_OPTIMUMAIRSPEED;CRUISE_TERMINALMANEUVERING; CRUISE_TERMINALGUIDANCETYPE; CRUISE_TERMINALGUIDANCEDISTANCE;RADAR_ACTIVERADARRANGE;RADAR_RADARLOAL;TRACK_MAXOFFBORESIGHT;TRACK_LOCKEDSENSORFOV;HEAT_HEATTHRESHOLD;LASER_BEAMCORRECTIONFACTOR; LASER_BEAMCORRECTIONDAMPING
+ANM30;WW2 AN-M64 100lb Bomb;VintageXP;Roaken Armory;0.041;800;12;1200;0;2.2;0;80;20;5.1;-1;18.04;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
+ANM57;WW2 AN-M64 250lb Bomb;VintageXP;Roaken Armory;0.112;800;12;1200;0;2.2;0;80;20;13.95;-1;29.81;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
+ANM64;WW2 AN-M64 500lb Bomb;VintageXP;Roaken Armory;0.213;800;12;1200;0;2.2;0;80;20;26.54;-1;41.11;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
+ANM65;WW2 AN-M65 1000lb Bomb;VintageXP;Roaken Armory;0.445;800;12;1200;0;2.2;0;80;20;55.44;-1;59.42;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
+WW2HVARRocket;WW2 Rocket HVAR;VintageXP;Roaken Armory;0.061;650;5;3600;6;5;0;0;8;8;-1;5;False;agm;laser;0;400;4000;342;False;;0;6000;False;360;2.5;150;0;0
+WW2RP3Rocket;WW2 Rocket RP-3;VintageXP;Roaken Armory;0.048;650;5;3600;5;5;0;0;8;7;-1;8;False;agm;laser;0;400;4000;342;False;;0;6000;False;360;2.5;150;0;0
+bahaAgm86B;AGM-86C Cruise Missile;BahamutoD;Bahamuto Dynamics;1.15;2400;5;3600;7;2.2;5.6;120;20;28;-1;50;True;cruise;gps;125;700;40000;300;False;;0;6000;False;360;2.5;150;0;0
+bahaAim120;AIM-120 AMRAAM Missile;BahamutoD;Bahamuto Dynamics;0.15;2000;5;3600;30;2.2;3;30;35;15;-1;20;True;aam;radar;0;500;15000;450;False;;0;6000;True;50;5;150;0;0
+bahaClusterBomb;CBU-87 Cluster Bomb;BahamutoD;Bahamuto Dynamics;0.467;150;5;3600;0;2.2;0;45;20;5;-1;10;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
+bahaHarm;AGM-88 HARM Missile;BahamutoD;Bahamuto Dynamics;0.355;568;5;3600;36;2.2;3.7;30;35;15;-1;20;True;agm;antirad;0;500;30000;680;False;;0;6000;False;50;2.5;150;0;0
+bahaHEKV1;HE-KV-1 Missile (BROKEN);BahamutoD;Bahamuto Dynamics;0.14;4000;5;3600;10;3.8;0;25;17;16;-1;25;True;rcs;radar;0;10;5000;220;False;;0;6000;True;50;5;150;0;0
+bahaAGM-114;AGM-114 Hellfire Missile;BahamutoD;Bahamuto Dynamics;0.048;220;5;3600;4.4;3;0;0;8;16;22;25;True;agm;laser;0;800;4000;342;False;;0;6000;False;360;2.5;150;0;0
+bahaJdamMk83;Mk83 JDAM Bomb;BahamutoD;Bahamuto Dynamics;0.46;200;5;3600;0;0;0;80;20;35;-1;60;True;agmballistic;gps;0;10;5000;300;False;;0;6000;False;360;2.5;150;0;0
+bahaAGM-65;AGM-65 Maverick Missile;BahamutoD;Bahamuto Dynamics;0.27;400;5;3600;44;0.575;9.6;3.495;9;20;26;25;True;agm;laser;0;800;5500;350;False;;0;6000;False;360;2.5;150;0;0
+bahaMk82Bomb;Mk82 Bomb;BahamutoD;Bahamuto Dynamics;0.227;50;5;3600;0;2.2;0;80;20;25;-1;40;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
+bahaMk82BombBrake;Mk82 SnakeEye Bomb;BahamutoD;Bahamuto Dynamics;0.227;75;5;3600;0;2.2;0;45;20;25;-1;40;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
+bahaPac-3;PAC-3 Intercept Missile;BahamutoD;Bahamuto Dynamics;0.318;4000;5;3600;40;5.5;8;30;20;15;-1;35;True;aam;radar;0;2000;30000;650;False;;0;0;False;50;5;150;0;0
+bahaRBS-15Cruise;RBS-15 Cruise Missile;BahamutoD;Bahamuto Dynamics;1.15;2000;5;3600;170;2.2;11;120;25;30;-1;50;True;cruise;gps;0;700;40000;250;True;radar;4000;4500;True;360;15;150;0;0
+bahaAim9;AIM-9 Sidewinder Missile;BahamutoD;Bahamuto Dynamics;0.085;1200;5;3600;18;2.2;1;10;45;12;-1;15;True;aam;heat;0;200;8000;450;False;;0;6000;False;50;2.5;150;0;0
+StingRayBDATorpedo;Sting Ray  BDA LightWeight Torpedo;Spanner;Bahamuto Dynamics;0.2655;470;300;3200;47.8;2;22.2;480;40;30;50;30;True;aam;radar;0;200;8000;45;False;;0;8000;True;270;7;150;0;0
+bahaTowMissile;BGM-71 Tow Missile;BahamutoD;Bahamuto Dynamics;0.021;120;5;3600;24;0.12;0.8;5.5;20;25;-1;15;True;beamriding;laser;0;650;3500;200;False;;0;6000;False;360;2.5;150;4.5;0.0075
+NAS.AB.FritzX.LW;Fritz X Guided Anti-ship Glide Bomb;BahamutoD & Kerwis;Kerbin Navy;1.362;1200;16;3600;0;0;0;90;5;36;32;49;True;agmballistic;laser;0;10;5000;342;False;;0;6000;False;360;2.5;150;0;0
+NAS.AB.Tallboy12klb.RAF;Tallboy 12,000 lb Earthquake Bomb;BahamutoD & Kerwis;Kerbin Navy;5.4;1500;12;3600;0;0;0;80;20;80;72;100;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
+NAS.AB.Type99No80.IJN;Type 99 No.80 Mk 5 Bomb;BahamutoD & Kerwis;Kerbin Navy;0.7968;750;16;3600;0;0;0;80;20;18;16;22.5;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
+NAS.DC.Type3.IJN;Type 3 Depth Charge;BahamutoD & Kerwis;Kerbin Navy;0.15;300;40;5600;0;0;0;120;0;27;-1;38;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
+NAS.TO.AT.Type91.IJN;Type 91 Torpedo Mod 2 "Thunder Fish";BahamutoD & Kerwis;Kerbin Navy;0.848;420;52.5;4000;0;1;4;100;6;73;65;36;True;none;none;0;200;3200;22;False;;0;6000;False;360;2.5;150;0;0
+NAS.TO.Type93.IJN;Type 93 Torpedo "Long Lance";BahamutoD & Kerwis;Kerbin Navy;2.7;650;25;4000;17.5;1;14;2200;8;93;83;42;True;none;none;0;200;40000;34;False;;0;6000;False;360;2.5;150;0;0
+NAS.TO.AT.MarkXII.RN;18" Mark XII Aerial Torpedo;BahamutoD & Kerwis;Kerbin Navy;0.702;300;36;4000;0;1;4.2;70;6;66;59;30;True;none;none;0;200;3200;25;False;;0;6000;False;360;2.5;150;0;0
+NAS.AB.AN-Mk1.USN;AN-Mk 1 1,600 lb Armor Piercing Bomb;BahamutoD & Kerwis;Kerbin Navy;0.726;700;25;3600;0;0;0;90;20;30;27;37.5;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
+NAS.AB.HVAR.USN;High Velocity Aircraft Rocket;BahamutoD & Kerwis;Kerbin Navy;0.061;120;10;3600;0;0;25;1.5;30;8.5;7.6;15;False;none;none;0;10;5000;419;False;;0;6000;False;360;2.5;150;0;0
+NAS.AB.TinyTim.USN;Tiny Tim Unguided Rocket;BahamutoD & Kerwis;Kerbin Navy;0.569;480;10;3600;13;1;0.5;45;30;23.5;21;40;False;none;none;0;10;5000;245.8;False;;0;6000;False;360;2.5;150;0;0
+NAS.DC.Mark9.USN;Depth Charge Mark 9 Mod 2;BahamutoD & Kerwis;Kerbin Navy;0.15;300;50;5600;0;0;0;120;0;26;-1;35;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
+NAS.TO.Mark15.USN;Mark 15 Torpedo;BahamutoD & Kerwis;Kerbin Navy;1.75;450;25;4000;9;1;7.2;1440;8;90;80;40;True;none;none;0;200;20000;34;False;;0;6000;False;360;2.5;150;0;0
+BulavaSLBCM;BulavaSLBCM;Spanner;SM Armory;5;44450;5;5600;600;10;300;600;45;100;100;100;True;agmballistic;gps;0;10000;40000;220;False;radar;3500;4500;True;360;10;150;0;0
+BulavaSLBM;BulavaSLBM;Spanner/gomker;SM Armory;5;44950;5;5600;600;10;300;600;45;100;100;100;True;agmballistic;gps;0;10000;40000;220;False;radar;3500;4500;True;360;10;150;0;0
+DallasTestTorp18;DallasTestTorp18;Spanner;SM Armory;0.1495;650;5;3600;50;10;45;120;30;12;-1;22;True;beamriding;laser;0;400;14000;372;False;;0;6000;False;360;2.5;150;4.5;0.0075
+DallesqueMK48Torpedo;Dallesque MK48 Torpedo;Spanner;SM Marine;0.1495;650;5;3600;60;10;45;180;30;50;50;50;True;aam;radar;0;600;14000;220;False;;0;5000;True;20;5;150;0;0
+DallesqueTorp20;DallasTestTorp20;Spanner;SM Marine;0.1495;650;5;3600;50;10;45;120;30;12;-1;22;True;aam;radar;0;600;14000;220;False;;0;5000;True;20;5;150;0;0
+K15SLBM;K15 SLBM;Spanner/gomker;SM Armory;4.1;44950;5;5600;400;10;100;600;45;100;100;100;True;agmballistic;gps;0;10000;40000;220;False;radar;3500;4500;True;360;10;150;0;0
+PolarisSLBM;PolarisSLBM;Spanner/gomker;SM Armory;4;44950;5;5600;550;20;300;1440;45;100;100;100;True;agmballistic;gps;0;10000;40000;220;False;radar;3500;4500;True;360;10;150;0;0
+PolarisSLCBM;PolarisSLCBM;Spanner;SM Armory;4;44450;5;5600;550;20;300;1440;45;100;100;100;True;agmballistic;gps;0;10000;40000;220;False;radar;3500;4500;True;360;10;150;0;0

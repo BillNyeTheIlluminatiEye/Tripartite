@@ -1,0 +1,2 @@
+NAME;TITLE;AUTHOR;MANUFACTURER;PART_MASS;PART_COST;PART_CRASHTOLERANCE;PART_MAXTEMP;alwaysOn;rcsReduction;rcsReducationFactor;lockbreaker;lockbreak_strength;jammerStrength
+bahaECMJammer;AN/ALQ-131 ECM Jammer;BahamutoD;Bahamuto Dynamics;0.3;600;7;3600;False;False;0;True;500;1200
