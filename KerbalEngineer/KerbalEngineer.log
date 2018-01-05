@@ -1,15 +1,15 @@
 Executing: KerbalEngineer - 1.1.3.0
 Assembly: C:\Program Files\Kerbal Space Program\KSP 1.3.1-Tripartite\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 09:59:50.8273226]: images (UnityEngine.AssetBundle)
-[Log 10:03:47.5657249]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 10:05:06.0780211]: images (UnityEngine.AssetBundle)
+[Log 10:09:26.4326596]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
 Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
 Assembly: FilterExtensions, Version=3.1.1.7, Culture=neutral, PublicKeyToken=null
 Assembly: AirPark, Version=0.1.6.1, Culture=neutral, PublicKeyToken=null
 Assembly: B9_Aerospace_WingStuff, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Assembly: BDAnimationModules, Version=0.6.5.0, Culture=neutral, PublicKeyToken=null
-Assembly: RNModules, Version=1.1.5.3, Culture=neutral, PublicKeyToken=null
+Assembly: BDAnimationModules, Version=0.6.5.1, Culture=neutral, PublicKeyToken=null
+Assembly: RNModules, Version=1.1.5.4, Culture=neutral, PublicKeyToken=null
 Assembly: BDArmory.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: BDArmory, Version=1.0.0.21477, Culture=neutral, PublicKeyToken=null
 Assembly: BurnTogether, Version=0.1.3.0, Culture=neutral, PublicKeyToken=null
@@ -69,4 +69,10 @@ Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
 Assembly: VanguardTechnologies, Version=0.1.15.0, Culture=neutral, PublicKeyToken=null
 Assembly: VesselMover, Version=1.6.2.0, Culture=neutral, PublicKeyToken=null
 
-[Log 10:07:27.8608595]: BuildAdvanced->OnDestroy
+[Exception 10:10:27.8363379]: Object reference not set to an instance of an object
+[]:   at KerbalEngineer.Editor.BuildOverlayResources.OnGUI () [0x00000] in <filename unknown>:0 
+
+[Exception 10:10:27.8373384]: Object reference not set to an instance of an object
+[]:   at KerbalEngineer.Editor.BuildOverlayResources.OnGUI () [0x00000] in <filename unknown>:0 
+
+[Log 10:10:28.3558190]: BuildAdvanced->OnDestroy
